@@ -1,0 +1,21 @@
+line {
+	stroke: darkblue;
+	stroke-width: 10px;
+}
+
+circle {
+	fill: pink;
+}
+
+.red {
+	stroke: red;
+}
+
+.orange {
+	fill: orange;
+}
+
+#frame {
+	width: 500px;
+	height: 500px;
+}

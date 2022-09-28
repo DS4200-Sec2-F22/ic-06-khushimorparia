@@ -1,7 +1,7 @@
 # ic-06
 ic-06 - JavaScript Part 2
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: https://ds4200-sec2-f22.github.io/ic-06-khushimorparia/
 
 ## Purpose
 
